@@ -1,4 +1,4 @@
-# 🔐 Security Engineer & Cybersecurity AI Projects  
+# 🔐 Cybersecurity AI Projects  
 
 Welcome to my Security Engineering portfolio! This repository showcases hands-on projects demonstrating my expertise in **security automation, AI-powered threat detection, DevSecOps, and cloud security**.  
 
