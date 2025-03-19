@@ -63,10 +63,6 @@ These projects focus on **web security, penetration testing, and API security be
 | **JWT Token Security Analyzer** | Create a tool to check for **weak JWT token security implementations**. | Python, JWT.io, OpenID |
 | **Automated Bug Bounty Recon** | Build an automated tool to find subdomains, exposed APIs, and misconfigured cloud storage. | Python, Sublist3r, Amass, Nuclei |
 
---
-
-📩 **Want to collaborate?** Feel free to fork these projects, submit PRs, or reach out with ideas!  
-
 ---
-🔥 **Let’s build a more secure digital world—one commit at a time!** 🔥  
+🔥 **Building a more secure digital world—one commit at a time!** 🔥  
 
